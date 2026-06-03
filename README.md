@@ -4,7 +4,7 @@ Welcome to the official website of **Colegio de Muntinlupa** – the home of fut
 
 ## 🌐 Live Website
 
-👉 [Explore the Live Site](https://neon1015.github.io/CDMwebsite/)
+👉 [Explore the Live Site](https://neon1015.github.io/CDMwebsite/cdm.html)
 
 ---
 
