@@ -1,22 +1,22 @@
-# Colegio de Muntinlupa (CDM) Official Website
+# Colegio de Muntinlupa (CDM) – Proposed Website
 
-Welcome to the official website of **Colegio de Muntinlupa** – the home of future engineers and architects. This site provides comprehensive information about the college, academic programs, admissions, careers, and a fully functional contact form.
+Welcome to the **proposed website** for **Colegio de Muntinlupa** – the home of future engineers and architects. This design concept provides comprehensive information about the college, academic programs, admissions, careers, and a fully functional contact form.
 
-## 🌐 Live Website
+## 🌐 Live Demo
 
-👉 [Explore the Live Site](https://neon1015.github.io/CDMwebsite/cdm.html)
+👉 [View the Proposed Website](https://neon1015.github.io/CDMwebsite/cdm.html)
 
 ---
 
 ## 🚀 Features
 
-*   **Fully Responsive:** Optimized layouts for mobile, tablet, and desktop screens.
-*   **Navigation:** Intuitive hamburger menu for small screens.
-*   **Interactive UI:** Dynamic image sliders on the homepage and admissions page.
-*   **Serverless Contact Form:** Fully working contact form using FormSubmit (no custom backend required).
-*   **Academic Directory:** Detailed program descriptions paired with career opportunities.
-*   **Institutional Updates:** Dedicated News & Updates section.
-*   **Job Board:** Active career listings for part-time and full-time faculty positions.
+- **Fully Responsive** – works on mobile, tablet, and desktop.
+- **Hamburger Menu** – intuitive navigation on small screens.
+- **Image Sliders** – dynamic carousels on the homepage and admission page.
+- **Working Contact Form** – uses FormSubmit (no backend required).
+- **Program Directory** – detailed descriptions with career opportunities.
+- **News & Updates** – latest college announcements.
+- **Job Board** – faculty openings (part‑time and full‑time).
 
 ---
 
