@@ -1,3 +1,4 @@
+
 # Colegio de Muntinlupa (CDM) – Proposed Website
 
 Welcome to the **proposed website** for **Colegio de Muntinlupa** – the home of future engineers and architects. This design concept provides comprehensive information about the college, academic programs, admissions, careers, and a fully functional contact form.
